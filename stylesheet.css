@@ -1,3 +1,47 @@
-nav {
-  background-color: black;
+.navbar1 {
+  background-color: blue;
+  color: white;
+
 }
+
+nav {
+  background-color: grey;
+  padding: 2;
+  font-size: 14;
+  padding-bottom: 0;
+}
+
+.navbar2{
+  background-color: white;
+  color: black;
+}
+
+.hero-background-img1 {
+  background-image: url("kenny-gaines-ss4Nb_fKjfc-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:200px;
+  padding-bottom:200px;
+}
+
+.hero-background-img2 {
+  background-image: url("aron-yigin-BtPJpaT7Gu4-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:200px;
+  padding-bottom:200px;
+}
+.hero-background-img3 {
+  background-image: url("teddy-guerrier-jiSz18z9Mjo-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:200px;
+  padding-bottom:200px;
+}
+
+.row{
+  margin: 1;
+  margin-bottom: 10;
